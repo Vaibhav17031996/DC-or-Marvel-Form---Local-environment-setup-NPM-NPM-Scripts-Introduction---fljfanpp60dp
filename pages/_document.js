@@ -1,12 +1,12 @@
-import Document, { Html, Head, Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 const MyDocument = () => {
   return (
-    <Html lang='en'>
+    <Html lang="en">
       <Head>
         <link
-          rel='stylesheet'
-          href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap'
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
         />
       </Head>
       <body>
